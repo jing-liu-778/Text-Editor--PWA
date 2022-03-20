@@ -16,11 +16,11 @@ Build a text editor that runs in the browser. The app will be a single-page appl
 
 ## Installation
 
-The user should clone the repository from GitHub and run `npm install` in order to install the npm package dependencies and run `npm run start`.
+The user should clone the repository from GitHub and run `npm install` in order to install the npm package dependencies.
 
 ## Usage
 
-To start application run `npm start`.
+To start application run `npm run start`.
 
 Deployed Heroku link here - [Heroku](https://young-hollows-58244.herokuapp.com/)
 
